@@ -12,3 +12,5 @@ File Explorer: https://nextleap.app/online-compiler/reactjs-programming/j66td4ec
 Check all: https://nextleap.app/online-compiler/reactjs-programming/exhyw35wc
 
 Todo: https://nextleap.app/online-compiler/reactjs-programming/efswhfcru
+
+Modal With Open and Close Functionality: https://nextleap.app/online-compiler/reactjs-programming/1jbprfue4
